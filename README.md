@@ -1,5 +1,5 @@
 # wave_clus_python
-Code pour faire tourner wave clus avec python
+Run waveclus with pyhton
 
 
 input : 
